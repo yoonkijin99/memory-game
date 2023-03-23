@@ -1,0 +1,18 @@
+.credits {
+    color: white;
+
+    width: 300px;
+    height: 500px;
+    margin: 175px auto 100px auto;
+    padding: 30px 10px;
+
+    text-align: center;
+    background-color: rgb(78, 169, 222);
+    border: 2px solid black;
+    border-radius: 7px;
+}
+
+.credits p, a {
+    font-family: Arial;
+    font-size: 10px;
+}

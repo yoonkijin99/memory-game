@@ -1,0 +1,22 @@
+.scores {
+    font-family: Arial;
+    font-size: 15px;
+    color: black;
+
+    width: 200px;
+    margin: 0px auto 2px auto;
+    padding: 5px 5px;
+
+    text-align: center;
+    border: 1px solid black;
+    background-color: rgb(78, 169, 222);
+}
+
+.scores p {
+    font-family: Arial;
+    font-size: 15px;
+    color: white;
+    
+    margin: 5px auto 5px auto;
+}
+

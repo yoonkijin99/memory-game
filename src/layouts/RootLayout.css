@@ -1,0 +1,36 @@
+.game-title {
+    font-family: 'Arial Black';
+    font-size: 40px;
+    color: white;
+
+    width: 200px;
+    margin: 30px auto 10px auto;
+    padding: 5px 10px;
+    
+    text-align: center;
+    background-color: rgb(78, 169, 222);
+    border: 2px solid black;
+}
+
+.nav-bar a {
+    font-family: 'Arial Black';
+    font-size: 20px;
+    color: white;
+
+    width: fit-content;
+    display: block;
+    margin: 0px auto 0px auto;
+    padding: 6px 12px;
+
+    text-align: center;
+    text-decoration: none;
+    background-color: rgb(78, 169, 222);
+    border: 2px solid black;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+.nav-bar a:hover{
+    background-color: rgb(96, 143, 170);
+    color: white;
+}

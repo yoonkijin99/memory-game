@@ -1,0 +1,92 @@
+.game-frame {
+  align-items: center; 
+  background-color: rgba(158, 223, 236, 0.399);
+  width: 650px;
+  height: 800px;
+  border: solid;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 15px;
+  padding-bottom: 20px;
+}
+
+.new-game-button {
+  font-family: Arial Black;
+  font-size: 20px;
+  color: white;
+
+  display: block;
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 6px 12px;
+
+  text-align: center;
+  background-color: rgb(78, 169, 222);
+  border: 2px solid black;
+  border-radius: 7px;
+  cursor: pointer;
+}
+.new-game-button:hover {
+  color: white;
+  background-color: rgb(96, 143, 170);
+}
+
+.score-form {
+  display: block;
+  margin: 0px auto 50px auto;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.turns {
+  font-family: Arial;
+  font-size: 15px;
+  color: white;
+
+  width: 75px;
+  display: block;
+  margin: 0px auto 10px auto;
+  padding: 4px 4px;
+
+  text-align: center;
+  background-color: rgb(78, 169, 222);
+  border: 1px solid black;
+}
+
+.name {
+  font-family: Arial;
+  font-size: 15px;
+  color: white;
+
+  margin-right: 5px;
+  padding: 4px 4px;
+
+  background-color: rgb(78, 169, 222);
+  border: 1px solid black;
+}
+.name-input {
+  margin-left: 2px;
+  border: solid;
+  border-width: 1px;
+}
+
+.submit-button {
+  font-family: Arial Black;
+  font-size: 15px;
+  color: white;
+
+  margin-top: 10px;
+  margin-left: 10px;
+  padding: 6px 12px;
+
+  text-align: center;
+  background-color: rgb(78, 169, 222);
+  border: 2px solid black;
+  border-radius: 7px;
+  cursor: pointer;
+}
+.submit-button:hover {
+  color: white;
+  background-color: rgb(96, 143, 170);
+}
