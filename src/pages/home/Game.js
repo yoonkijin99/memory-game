@@ -27,7 +27,7 @@ const cardsInitialState = [
   {'src': '/img/cow2.jpg', matched: false}
 ]
 
-let pairsLeft = 6; 
+let pairsLeft = 8; 
 
 function Game() {
 
